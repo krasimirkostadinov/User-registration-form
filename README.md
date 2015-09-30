@@ -43,9 +43,11 @@ Installation:
 
 Project preview:
 ----------------
-  1. Homepage UI, form preview
-  2. Homepage error state
-  3. Homepage successfull state
+  1. User form error state
+  ![alt tag](/docs/error-registration.png?raw=true "Error state")
+
+  2. User form successfull state
+  ![alt tag](/docs/successfull-registration.png?raw=true "Successfull registration state")
 
 Future improovements:
 ---------------------
